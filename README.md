@@ -11,4 +11,4 @@ Final Project
  10 animal word bank
 
 Class diagram
-![]()
+![hangman](https://github.com/CarmellaCroft/Hangman/blob/main/image/Hangman%201.png?raw=true)
