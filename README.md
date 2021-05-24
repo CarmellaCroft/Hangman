@@ -9,3 +9,6 @@ Final Project
  An OOP that has the computer choose a random animal that the user must guess. 
  
  10 animal word bank
+
+Class diagram
+![]()
