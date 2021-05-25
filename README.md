@@ -10,9 +10,11 @@ Final Project
  An OOP that has the computer choose a random animal that the user must guess. 
  
  10 animal word bank
+ Sheep, cow, dog, cat, pig, giraffe, elephant, shark, fish, frog
+ 
+ Source code [here]()
 
 Class diagram
-1. Sheep, cow, dog, cat, pig, giraffe, elephant, shark, fish, frog
 
 ![hangman](https://github.com/CarmellaCroft/Hangman/blob/main/image/Hangman%201.png?raw=true)
 
