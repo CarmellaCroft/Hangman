@@ -17,7 +17,7 @@ Starter screen
 ![starter](https://github.com/CarmellaCroft/Hangman/blob/main/image/Start%20page%202021-05-24%206.04.32%20PM.png?raw=true)
 
 Mid Game
-![](https://github.com/CarmellaCroft/Hangman/blob/main/image/mid%20game%202021-05-24%206.05.16%20PM.png?raw=true)
+![midgame](https://github.com/CarmellaCroft/Hangman/blob/main/image/mid%20game%202021-05-24%206.05.16%20PM.png?raw=true)
 
 Finished
-![]()
+![finished](https://github.com/CarmellaCroft/Hangman/blob/main/image/winner%202021-05-24%206.06.13%20PM.png?raw=true)
