@@ -12,6 +12,7 @@ Final Project
  10 animal word bank
 
 Class diagram
+1. Sheep, cow, dog, cat, pig, giraffe, elephant, shark, fish, frog
 
 ![hangman](https://github.com/CarmellaCroft/Hangman/blob/main/image/Hangman%201.png?raw=true)
 
