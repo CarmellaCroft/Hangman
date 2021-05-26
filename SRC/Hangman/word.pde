@@ -1,5 +1,0 @@
-class Words {
-
-  void display() {}
-  
-}
