@@ -1,0 +1,27 @@
+//Carmella Croft
+//Final Project Hangman
+//May, 25th, 2021
+
+
+public class Main{
+
+// starter screen
+
+// words
+
+//letters
+
+//user interaction
+
+
+	public static void hang(String guess) {
+// add in hangman
+	}
+
+	public static void hangmanImage() {
+		//hangman images
+    //finish screen
+  }
+
+
+}
