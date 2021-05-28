@@ -29,3 +29,8 @@ Mid Game
 Finished
 
 ![finished](https://github.com/CarmellaCroft/Hangman/blob/main/image/winner%202021-05-24%206.06.13%20PM.png?raw=true)
+
+Tested
+
+feedback- 
+works well, good game, not that challenging, not that showy, no runtime erros, no logic erros, clear instructions
